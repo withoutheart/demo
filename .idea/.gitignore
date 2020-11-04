@@ -1,3 +1,6 @@
+# Default ignored files
+/workspace.xml
+
 # Compiled class file
 *.class
 
@@ -23,4 +26,3 @@ hs_err_pid*
 
 # my config
 ./.idea/
-33.jar
