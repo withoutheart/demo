@@ -1,4 +1,4 @@
 package com.chindata;
 
-public class Demo3 {
+public class Demo2 {
 }
